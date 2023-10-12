@@ -11,7 +11,7 @@ social:
   facebook:
   twitter:
   github: 
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/alexander-korotkov-41b1b582/
 images:
   - speakers/alexander_korotkov.jpg
 ---
